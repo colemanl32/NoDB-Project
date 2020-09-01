@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "name": "The Ranches",
+        "image": "https://golfadvisor.brightspotcdn.com/dims4/default/7018ffc/2147483647/strip/true/crop/896x578+68+0/resize/930x600!/quality/90/?url=https%3A%2F%2Fgolfadvisor.brightspotcdn.com%2Fa4%2F95%2F1820eee284570854977c87676eee%2F73857.jpg",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 7050"
+    },
+    {
+        "id": 1,
+        "name": "The Oaks at Spanish Fork",
+        "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_651,q_75,w_979/https://assets.simpleviewinc.com/simpleview/image/upload/crm/utahvalley/hole_16_web0_3094a12a-5056-a36a-0bc3c021b0238b8f.jpg",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 6564" 
+    },
+    {
+        "id": 2,
+        "name": "East Bay",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/0c/4f/cc/east-bay-golf-course.jpg",
+        "par": "Par: 71",
+        "yardage": "Total Yards: 6451"
+    },
+    {
+        "id": 3,
+        "name": "Cedar Hills",
+        "image": "https://bloximages.chicago2.vip.townnews.com/heraldextra.com/content/tncms/assets/v3/editorial/f/d8/fd8c33a8-d1d7-5ad9-b697-6c504ef5b2f1/53b443721e8d0.preview-1024.jpg?resize=949%2C630",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 6600"
+    },
+    {
+        "id": 4,
+        "name": "Gladstan",
+        "image": "https://www.citydeals.com/media/catalog/product/cache/16/image/406x246/9df78eab33525d08d6e5fb8d27136e95/g/l/gladston2.jpg",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 6981"
+    },
+    {
+        "id": 5,
+        "name": "Fox Hollow",
+        "image": "https://golfadvisor.brightspotcdn.com/dims4/default/bae3404/2147483647/strip/true/crop/977x630+0+30/resize/930x600!/quality/90/?url=https%3A%2F%2Fgolfadvisor.brightspotcdn.com%2F7a%2F37%2F893d85cde8a3ea0118bbfb6f0179%2F103552.jpg",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 7189"
+    },
+    {
+        "id": 6,
+        "name": "Talon's Cove",
+        "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/utahvalley/DSCN55180-a16784b45056a36_a16785f5-5056-a36a-0b661b28498aec28.jpg",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 7096"
+    },
+    {
+        "id": 7,
+        "name": "The Links at Sleepy Ridge",
+        "image": "https://static.wixstatic.com/media/6c18b3_9b36d8fb5a2f4b0fa361b033fc3a4046~mv2.jpg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/6c18b3_9b36d8fb5a2f4b0fa361b033fc3a4046~mv2.webp",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 7047"
+    },
+    {
+        "id": 8,
+        "name": "Thanksgiving Point Golf Club",
+        "image": "https://images.squarespace-cdn.com/content/v1/5c9563c2e8ba443e2016ed90/1563984832511-2A4QHKU13B7RGEMQ52E2/ke17ZwdGBToddI8pDm48kCnI1mC6Be68BzLAhOWZA_VZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIcPfrZkuFBAd33B6QD4aaLVm2JlBqOK1OmlAn099jZqMKMshLAGzx4R3EDFOm1kBS/c1485-facility-22-pan.jpg?format=1000w",
+        "par": "Par: 72",
+        "yardage": "Total Yards: 7716"
+    },
+    {
+        "id": 9,
+        "name": "Hobble Creek",
+        "image": "https://golfadvisor.brightspotcdn.com/21/4a/81273f9fa1d596f995c3bce82290/87062.jpg",
+        "par": "Par: 71",
+        "yardage": "Total Yards: 6406"
+    }
+    
+]
